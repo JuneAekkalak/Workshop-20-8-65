@@ -6,7 +6,7 @@ function OnePage() {
         <div className="shadow p-3 mb-4 bg-white rounded h1 text-center  header"> About SWE</div>
       </div>
     </div>
-  
+
     <div id="img" className="my-3">
     </div>
 
